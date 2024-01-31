@@ -1,4 +1,3 @@
-# SuperHousing_AdvancedLinearRegression
 # Surprise Housing: Australian Market Expansion
 
 ## Problem Statement
